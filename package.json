@@ -4,12 +4,15 @@
   "description": "A good reads client",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "jest"
   },
   "author": "Sandeep Kumar",
   "license": "MIT",
   "repository": "https://github.com/rails4sandeep/good-reads-client.git",
   "dependencies": {
     "superagent": "5.2.2"
+  },
+  "devDependencies": {
+    "jest": "26.0.1"
   }
 }
