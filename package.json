@@ -1,0 +1,15 @@
+{
+  "name": "good-reads-client",
+  "version": "1.0.0",
+  "description": "A good reads client",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Sandeep Kumar",
+  "license": "MIT",
+  "repository": "https://github.com/rails4sandeep/good-reads-client.git",
+  "dependencies": {
+    "superagent": "5.2.2"
+  }
+}
