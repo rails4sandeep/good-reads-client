@@ -1,0 +1,45 @@
+{
+    "@uri": "https://reststop.randomhouse.com/resources/titles/9780307448057/",
+    "author": "BROWN, DAN",
+    "authors": {
+      "authorId": {
+        "@contributortype": "A",
+        "$": "3446"
+      }
+    },
+    "authorbio": "<b>Dan Brown</b>&#160;is the author of numerous #1 international bestsellers, including&#160;<i>The Da Vinci Code, Inferno</i>,&#160;<i>The Lost Symbol</i>,&#160;<i>Angels &amp; Demons</i>,&#160;<i>Deception Point,</i>&#160;and&#160;<i>Digital Fortress</i>.",
+    "authorweb": "Dan Brown",
+    "awards": null,
+    "characters": null,
+    "contributorfirst1": "Dan",
+    "contributorlast1": "Brown",
+    "division": "Knopf",
+    "formatcode": "MH",
+    "formatname": "Display/Promo",
+    "imprint": "Knopf Doubleday Publishing Group",
+    "isbn": "9780307448057",
+    "isbn10": "0307448053",
+    "isbn10hyphenated": "0-307-44805-3",
+    "isbn13hyphenated": "978-0-307-44805-7",
+    "keyword": "LOST SYMBOL/BROWN MM SHELF TALKER FOR KROGER :  : Dan Brown : Knopf Doubleday Publishing Group :  :  :  : 0307448053 : 0-307-44805-3 : 9780307448057 : 978-0-307-44805-7 : ",
+    "onsaledate": "10/19/2010",
+    "pages": "0",
+    "pricecanada": "0.00",
+    "priceusa": "0.00",
+    "salestatus": "IP",
+    "tgpdf": "false",
+    "themes": null,
+    "titleauthisbn": "LOST SYMBOL/BROWN MM SHELF TALKER FOR KROGER : Dan Brown : 0307448053 : 0-307-44805-3 : 9780307448057 : 978-0-307-44805-7",
+    "titleshort": "LOST SYMBOL/BROWN SHLF TLKR KR",
+    "titlesubtitleauthisbn": "LOST SYMBOL/BROWN MM SHELF TALKER FOR KROGER :  : Dan Brown : 0307448053 : 0-307-44805-3 : 9780307448057 : 978-0-307-44805-7",
+    "titleweb": "LOST SYMBOL/BROWN MM SHELF TALKER FOR KROGER",
+    "updatedOn": "2017-12-01T02:06:54.000",
+    "webdomains": {
+      "webdomain": {
+        "@sell": "true",
+        "@domain": "COMPCOP"
+      }
+    },
+    "links": null,
+    "workid": "0"
+  }
